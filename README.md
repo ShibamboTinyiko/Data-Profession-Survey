@@ -1,5 +1,5 @@
 # Data-Profession-Survey
-Real life dataset taken from a survey conducted online to gain various insights into the "Data" field from experts, students etc. within or those making a switch. 
+Real life dataset taken from a survey conducted online to gain various insights into the "Data" field from experts, students as well as those making a switch or simply interested. 
 
 Dataset gathered from online platforms, and exported into an Excel sheet - (Credit to Alex Freberg for the dataset)
 Imported the data into PowerBI and performed the following: 
